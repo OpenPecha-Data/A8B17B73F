@@ -1,0 +1,25 @@
+segment_sources:
+  I44D030FC:
+    type: origin_type
+    relation: translation
+    language: en
+  IF5FF700B:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  dbf9108a9d98499b899962df7aea32eb:
+    I44D030FC: bc32e1a7478542b68a36f8b1fae5ea89
+    IF5FF700B: 29d02b4bee9f4ba8a03a4b11338632c2
+  832bfbe455e64a7bb55074964e9e96ab:
+    I44D030FC: d449beab38724b1e9d47bb37dd925493
+    IF5FF700B: 17d04f20ec784aaab0cf88fbef7179e4
+  a586ed79cc4d4444b06bc2ba08c912e9:
+    I44D030FC: 521387382a684a1dbc7ffb48394e7b1b
+    IF5FF700B: 0035ba4069d448c686863c9b42a40491
+  74879c5592d1450e90c06ca4fdf02813:
+    I44D030FC: 1b191b957bc348e1aa6d6652d4f88b2b
+    IF5FF700B: bee9915db10f4a32ad667e05db17ef79
+  1eef941ea6b1470ebd81ee896d589200:
+    I44D030FC: b4f4c3676fa04005b2b45823a7d9e687
+    IF5FF700B: a1695edab9374a278f4a1b3b98ec037a

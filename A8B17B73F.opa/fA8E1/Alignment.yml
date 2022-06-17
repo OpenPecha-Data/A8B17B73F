@@ -1,0 +1,16 @@
+segment_sources:
+  I44D030FC:
+    type: origin_type
+    relation: translation
+    language: en
+  IF5FF700B:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  4914bad6ce9c45a29620bdefa8330a96:
+    I44D030FC: cb7640ef72fc48bdbbfe82e208e46ee8
+    IF5FF700B: 304852c63c194fc0b4e535504a2dd711
+  05d45b0c1aee497db57872dfadafa5c3:
+    I44D030FC: c077091aca914f9f982a0b106185f876
+    IF5FF700B: 1f383163fd8545f288e4c5e4e7328fe2
